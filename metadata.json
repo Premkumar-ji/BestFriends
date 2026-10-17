@@ -1,0 +1,8 @@
+{
+  "name": "BestFriend.exe",
+  "description": "An interactive, playful friendship proposal app with dynamic typewriter chat, floating hearts, and an evasive NO button.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
