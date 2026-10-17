@@ -32,7 +32,7 @@ export const chatMessages = getChatMessages();
   'tu ho na, toh sab kuch thoda better lagta hai 🌸',
   'dhyan se dekh, YES bada ho raha hai 👀',
   'tera naam phone mein “favorite notification” hai 📱💖',
-  'oye oye oye 😤',
+  'oye oye oye mat kar aisa😤',
   'tujhe dekh ke mood automatically theek ho jata hai 😊',
   'ye button kaam nahi karta 😌',
   'tu meri playlist ka best song hai 🎧',
